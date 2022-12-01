@@ -1,0 +1,9 @@
+[project]
+protostar-version = "0.8.1"
+lib-path = "lib"
+
+[contracts]
+main = ["src/main.cairo"]
+
+[profile.devnet.project]
+gateway-url = "http://127.0.0.1:5050/"

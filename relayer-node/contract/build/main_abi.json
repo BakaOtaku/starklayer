@@ -1,0 +1,80 @@
+[
+    {
+        "data": [
+            {
+                "name": "payload_len",
+                "type": "felt"
+            },
+            {
+                "name": "payload",
+                "type": "felt*"
+            }
+        ],
+        "keys": [],
+        "name": "payload_sent",
+        "type": "event"
+    },
+    {
+        "inputs": [
+            {
+                "name": "payload_len",
+                "type": "felt"
+            },
+            {
+                "name": "payload",
+                "type": "felt*"
+            }
+        ],
+        "name": "increase_balance",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "payload_len",
+                "type": "felt"
+            },
+            {
+                "name": "payload",
+                "type": "felt*"
+            }
+        ],
+        "name": "register_ica",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "payload_len",
+                "type": "felt"
+            },
+            {
+                "name": "payload",
+                "type": "felt*"
+            }
+        ],
+        "name": "pass_calldata",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "get_balance",
+        "outputs": [
+            {
+                "name": "res",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    }
+]
