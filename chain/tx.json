@@ -1,0 +1,11 @@
+{
+  "@type": "/cosmos.bank.v1beta1.MsgSend",
+  "from_address": "evmos1ehh5503n2rhpz8evfqpsa62kfqc58c5g7dm855",
+  "to_address": "evmos165cyjk6ujhjy3cyxkj2wdqw3fj3k69kqsrclr5",
+  "amount": [
+    {
+      "denom": "aevmos",
+      "amount": "100"
+    }
+  ]
+}

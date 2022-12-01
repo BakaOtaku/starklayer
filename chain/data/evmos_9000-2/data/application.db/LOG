@@ -1,0 +1,11 @@
+=============== Dec 1, 2022 (IST) ===============
+15:45:30.794280 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:45:30.823386 db@open opening
+15:45:30.823990 version@stat F·[] S·0B[] Sc·[]
+15:45:30.835446 db@janitor F·2 G·0
+15:45:30.836290 db@open done T·11.997792ms
+15:52:20.545814 memdb@flush N·36122 S·3MiB
+15:52:20.609991 memdb@flush created L0@3 N·36122 S·2MiB "s/1,v297":"s/p..hts,v299"
+15:52:20.610013 version@stat F·[1] S·2MiB[2MiB] Sc·[0.25]
+15:52:20.618089 memdb@flush committed F·1 T·72.242833ms
+15:52:20.618563 journal@remove removed @1

@@ -1,0 +1,139 @@
+{
+    "Address": [
+        {
+            "name": "recovery",
+            "address": "evmos133v9x7z38a0h5ts52mh9gppxqh7m3ypeex2n0a",
+            "eth_address": "0x8C585378513F5f7A2e1456ee54042605fdB89039"
+        },
+        {
+            "name": "intertx",
+            "address": "evmos1037prtu0xk3x4gd77w8r3hfe802jvxhfkvhlsz",
+            "eth_address": "0x7c7C11AF8f35a26aa1bEF38e38Dd393BD5261Ae9"
+        },
+        {
+            "name": "feegrant",
+            "address": "evmos140h2ttm4yx8tlxeyg3lh8u787lqzrk28mt3y27",
+            "eth_address": "0xABeEA5af75218ebf9B24447f73f3c7F7c021D947"
+        },
+        {
+            "name": "upgrade",
+            "address": "evmos10lheg7wgh3drep5frjuzj6wt7tluw0rnv4w7rk",
+            "eth_address": "0x7FEF9479c8bc5a3c86891CB82969cbf2ffc73C73"
+        },
+        {
+            "name": "incentives",
+            "address": "evmos1krxwf5e308jmclyhfd9u92kp369l083wn67k4q",
+            "eth_address": "0xB0CcE4d33179E5bC7c974B4bC2aAc18E8Bf79E2E"
+        },
+        {
+            "name": "evm",
+            "address": "evmos1vqu8rska6swzdmnhf90zuv0xmelej4lq0n56wq",
+            "eth_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0"
+        },
+        {
+            "name": "erc20",
+            "address": "evmos1glht96kr2rseywuvhhay894qw7ekuc4qg9z5nw",
+            "eth_address": "0x47EeB2eac350E1923b8CBDfA4396A077b36E62a0"
+        },
+        {
+            "name": "evidence",
+            "address": "evmos1a6p9p7mkuz2txj68ruf6w0dmu5w34c2z5kggja",
+            "eth_address": "0xee8250fB76e094B34B471F13a73dbBE51D1AE142"
+        },
+        {
+            "name": "feemarket",
+            "address": "evmos1el68mjnzv87uurqks8u29tec0cj32970ea4yux",
+            "eth_address": "0xcff47DcA6261fDCE0C1681F8a2AF387E251517Cf"
+        },
+        {
+            "name": "staking",
+            "address": "evmos1mx5e3jkxvzf8frl7cl8m69264ctn0shltgu2uu",
+            "eth_address": "0xd9A998CaC66092748FfEc7cFBD155Aae1737C2fF"
+        },
+        {
+            "name": "crisis",
+            "address": "evmos1xntzx8qf42p2tfzxgy4jxukfl9eq242g9x6qfk",
+            "eth_address": "0x34D6231c09AA82A5A446412b2372c9F972055548"
+        },
+        {
+            "name": "auth",
+            "address": "evmos1hh6fc0pcsggzlsqhl7mxzyyvvw5rd5r99mhxh8",
+            "eth_address": "0xBDF49C3C3882102fc017FFb661108c63a836D065"
+        },
+        {
+            "name": "bank",
+            "address": "evmos1gwqac243g2z3vryqsev6acq965f9ttwhm6gxyq",
+            "eth_address": "0x4381dC2aB14285160c808659aEe005D51255adD7"
+        },
+        {
+            "name": "transfer",
+            "address": "evmos1yl6hdjhmkf37639730gffanpzndzdpmhv788dt",
+            "eth_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777"
+        },
+        {
+            "name": "epochs",
+            "address": "evmos1vyka32rpzcvpnf9d3ahnu2s9vaszsa7qu0u9kc",
+            "eth_address": "0x612Dd8a861161819A4AD8F6f3E2A0567602877c0"
+        },
+        {
+            "name": "genutil",
+            "address": "evmos1atn6enzwsq95tdsw2jvz9aa33020e4y4zeewc0",
+            "eth_address": "0xEAe7aCCc4e800b45b60E549822f7b18Bd4fCd495"
+        },
+        {
+            "name": "capability",
+            "address": "evmos18zjmayd008t7tw5cpxlns0rfnd5xfmjspmrrr8",
+            "eth_address": "0x38a5Be91af79d7e5bA9809bf383C699B6864eE50"
+        },
+        {
+            "name": "distribution",
+            "address": "evmos1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8974jnh",
+            "eth_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7"
+        },
+        {
+            "name": "inflation",
+            "address": "evmos1d4e35hk3gk4k6t5gh02dcm923z8ck86qygxf38",
+            "eth_address": "0x6d731a5ed145Ab6d2e88bbD4dC6CaA888f8b1F40"
+        },
+        {
+            "name": "interchainaccounts",
+            "address": "evmos1vlthgax23ca9syk7xgaz347xmf4nunef9f8ekc",
+            "eth_address": "0x67d77474CA8e3a5812de323a28D7c6Da6b3e4f29"
+        },
+        {
+            "name": "ibc",
+            "address": "evmos1xf3u97sfqwf069q7zvrsahxluash58pavpmg7q",
+            "eth_address": "0x3263c2fA090392fD141E13070eDcdfE7617A1C3D"
+        },
+        {
+            "name": "gov",
+            "address": "evmos10d07y265gmmuvt4z0w9aw880jnsr700jcrztvm",
+            "eth_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2"
+        },
+        {
+            "name": "params",
+            "address": "evmos15g9497h90nr6n8yk28cm2uu4plfprq37v8h0de",
+            "eth_address": "0xA20b52fAE57CC7A99c9651f1b573950fD211823E"
+        },
+        {
+            "name": "slashing",
+            "address": "evmos1xxh3p9vvg3xpnd4uw8yzkp7rpnfyvc0hcnazdj",
+            "eth_address": "0x31Af10958C444C19b6Bc71C82b07c30Cd24661f7"
+        },
+        {
+            "name": "claims",
+            "address": "evmos15cvq3ljql6utxseh0zau9m8ve2j8erz89m5wkz",
+            "eth_address": "0xA61808Fe40fEb8B3433778BBC2ecECCAA47c8c47"
+        },
+        {
+            "name": "authz",
+            "address": "evmos19xaz733d6tsjq4jhg3eees6h86sj8y2l735npc",
+            "eth_address": "0x29BA2F462DD2E120565744739cc3573Ea123915F"
+        },
+        {
+            "name": "vesting",
+            "address": "evmos1ny422fmppc8y7alu8mvpmz7flzg6u703ce9acn",
+            "eth_address": "0x992AA527610e0e4F77FC3eD81D8Bc9F891Ae79F1"
+        }
+    ]
+}
